@@ -1,4 +1,5 @@
 # Rebel.Alliance.KeyVault.Secrets.Emulator
+[nuget package](https://www.nuget.org/packages/Rebel.Alliance.KeyVault.Secrets.Emulator)
 
 ﻿Here's a detailed Markdown documentation file for your Azure Key Vault emulator library. This document covers every class, property, and method, providing a thorough overview of the library.
 
